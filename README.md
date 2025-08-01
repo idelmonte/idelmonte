@@ -46,8 +46,3 @@ A logistic regression machine learning model for predicting whether a person's i
 - **Interests:** Public health, physics & astronomy, running, hiking, cooking, music
   
 ---
-
-## 📌 How to Reach Me:
-
-📫 : **delmo24i@mtholyoke.edu**  
-🔗 [LinkedIn →](https://www.linkedin.com/in/isabella-delmonte)  
