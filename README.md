@@ -30,7 +30,7 @@ A compartmental differential equation model for tuberculosis (TB) in the U.S. an
 A linear-programming-based classifier that predicts whether a given tumor is malignant or benign.
 - Tools: Python, AMPL 
 - Techniques: Data cleaning, linear programming
----
+
 
 ### 💰 [Logistic Regression for Predicting Income](https://github.com/idelmonte/MLF_Lab8)
 
