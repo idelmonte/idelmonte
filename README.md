@@ -20,7 +20,8 @@ I love learning new skills and information by working on projects. Please reach 
 ## 📂 Featured Projects
 
 ### 🦠 [TB Model](https://github.com/Phoebe2777/Summer-Research-2025/tree/main/TB%20Project)  
-- A compartmental differential equation model for tuberculosis (TB) in the U.S. and a custom genetic algorithm built to optimize parameters for the TB model.
+
+A compartmental differential equation model for tuberculosis (TB) in the U.S. and a custom genetic algorithm built to optimize parameters for the TB model.
 - Tools: R, deSolve, ggplot2, parallel processing
 - Techniques: Differential equations, Euler's Method
 
