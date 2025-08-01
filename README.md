@@ -1,7 +1,8 @@
 ## Hi there! I'm Isabella Delmonte (She/Her)
 
 🎓 Math & Data Science Major @ Mount Holyoke College  
-🔬 Mathematics Research Assistant @ Mount Holyoke College & Break Through Tech AI Fellow @ Cornell Tech  
+🔬 Mathematics Research Assistant @ Mount Holyoke College 
+🤖 Break Through Tech AI Fellow @ Cornell Tech  
 📍 Westfield, MA | 🌐 [LinkedIn](https://www.linkedin.com/in/isabella-delmonte) | 📬 delmo24i@mtholyoke.edu
 
 ---
