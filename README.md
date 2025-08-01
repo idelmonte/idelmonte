@@ -1,5 +1,3 @@
-<!--
-
 ## Hi there! I'm Isabella Delmonte
 
 🎓 Math & Data Science Major @ Mount Holyoke College  
@@ -47,5 +45,3 @@ A linear-programming-based classifier that predicts whether a given tumor is mal
 
 📫 : **delmo24i@mtholyoke.edu**  
 🔗 [LinkedIn →](https://www.linkedin.com/in/isabella-delmonte)  
-
--->
