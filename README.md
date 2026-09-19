@@ -21,7 +21,7 @@ During my time as an AI/ML Fellow with Break Through Tech, I have developed a st
 
 ## 📂 Featured Projects
 
-### 🏥 [Medicaid Expansion Impact Analysis]
+### 🏥 [Medicaid Expansion Impact Analysis](https://docs.google.com/presentation/d/1wtyGDFDaPl1AtHF78Rxs3EV1HNwDwXXE5cVtq715rcs/edit?slide=id.g3972225ce04_0_0#slide=id.g3972225ce04_0_0)
 
 I led a three-person analysis of complex patient-level healthcare data to evaluate the projected impact of Kansas' proposed H.A.W.K. Medicaid expansion on emergency room utilization rates, winning Best in Show among 20 teams in a 25-hour competition. We merged 5 fragmented datasets and designed a FCM clustering patient segmentation model and policy simulation pipeline, identifying a coverage-gap cohort of approximately 51,000 patients (~9.1% of sample) and projecting a reduction of 267–2,050 annual ER visits
 
